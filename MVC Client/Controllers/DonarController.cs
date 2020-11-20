@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Headers;
+using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -46,14 +47,37 @@ namespace MVC_Client.Controllers
 
             }
             List<Donar> donarsList = new List<Donar>();
+           // double sum = 0;
 
             foreach (var item in donars)
             {
                 if (item.organization_Id==id)
                 {
+                   // sum += item.Amount;
                     donarsList.Add(item);
                 }
             }
+
+            //Organization org = new Organization();
+            //using (var httpclinet = new HttpClient())
+            //{
+            //    using (var response = await httpclinet.GetAsync("http://localhost:50839/api/Organizations/" + id))
+            //    {
+            //        string apiResponse = await response.Content.ReadAsStringAsync();
+            //        org = JsonConvert.DeserializeObject<Organization>(apiResponse);
+            //    }
+            //    org.TotalDonations = sum.ToString();
+            //    StringContent content = new StringContent(JsonConvert.SerializeObject(org), Encoding.UTF8, "application/json");
+            //    using (var response = await httpclinet.PutAsync("http://localhost:50839/api/Organizations", content))
+            //    {
+            //        string apiResponse = await response.Content.ReadAsStringAsync();
+                
+
+            //    }
+            //}
+
+
+
             return View(donarsList);
         }
 
@@ -66,16 +90,59 @@ namespace MVC_Client.Controllers
         // POST: DonarController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public async Task<ActionResult> CreateAsync(int id,Donar donar)
         {
-            try
+           
+            
+            if (HttpContext.Session.GetString("token") == null)
             {
-                return RedirectToAction(nameof(Index));
+
+                return RedirectToAction("Login", "Login");
+
             }
-            catch
+
+            //Code for Donation
+            donar.organization_Id = id;
+            using (var httpclinet = new HttpClient())
             {
-                return View();
+                StringContent content = new StringContent(JsonConvert.SerializeObject(donar), Encoding.UTF8, "application/json");
+                using (var response = await httpclinet.PostAsync("https://localhost:44348/api/donar", content))
+                {
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+                    donar = JsonConvert.DeserializeObject<Donar>(apiResponse);
+                  
+                }
             }
+
+            //Updating Total Funds Donated To Organization
+
+            Organization org = new Organization();
+            using (var client = new HttpClient())
+            {
+                var contentType = new MediaTypeWithQualityHeaderValue("application/json");
+                client.DefaultRequestHeaders.Accept.Add(contentType);
+                client.DefaultRequestHeaders.Authorization =
+                    new AuthenticationHeaderValue("Bearer", HttpContext.Session.GetString("token"));
+                using (var response = await client.GetAsync("http://localhost:50839/api/Organizations/" + id))
+                {
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+                    org = JsonConvert.DeserializeObject<Organization>(apiResponse);
+                }
+                double donations= Convert.ToInt32(org.TotalDonations);
+                org.TotalDonations = (donar.Amount + donations).ToString();
+                StringContent content = new StringContent(JsonConvert.SerializeObject(org), Encoding.UTF8, "application/json");
+                using (var response = await client.PutAsync("http://localhost:50839/api/Organizations", content))
+                {
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+
+
+                }
+
+            }
+
+
+
+            return RedirectToAction("Index","Organization");
         }
 
         // GET: DonarController/Edit/5

@@ -31,6 +31,7 @@ namespace HelpingHandsApi.Repositories
 
 
         }
+      
 
 
 
@@ -48,6 +49,14 @@ namespace HelpingHandsApi.Repositories
             return org;
         }
 
-       
+        public Organization Update(Organization organization)
+        {
+           
+
+            
+            _context.Organization.Update(organization);
+            _context.SaveChanges();
+            return organization;
+        }
     }
 }

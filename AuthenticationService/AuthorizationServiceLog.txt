@@ -125,3 +125,58 @@
 2020-11-20 13:35:17,676 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
 2020-11-20 13:35:26,406 Authentication initiated
 2020-11-20 13:35:26,641 Json web token generated
+2020-11-20 13:48:30,764 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:48:30,797 Hosting environment: Development
+2020-11-20 13:48:30,802 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 13:48:45,864 Authentication initiated
+2020-11-20 13:48:46,085 Json web token generated
+2020-11-20 13:50:05,103 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:50:05,124 Hosting environment: Development
+2020-11-20 13:50:05,127 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 13:50:09,818 Authentication initiated
+2020-11-20 13:50:10,083 Json web token generated
+2020-11-20 13:52:40,459 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:52:40,477 Hosting environment: Development
+2020-11-20 13:52:40,482 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 13:57:06,300 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:57:06,316 Hosting environment: Development
+2020-11-20 13:57:06,319 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 13:57:18,001 Authentication initiated
+2020-11-20 13:57:18,199 Json web token generated
+2020-11-20 14:00:40,744 Application started. Press Ctrl+C to shut down.
+2020-11-20 14:00:40,755 Hosting environment: Development
+2020-11-20 14:00:40,758 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 14:00:48,912 Authentication initiated
+2020-11-20 14:00:49,119 Json web token generated
+2020-11-20 15:49:18,949 Application started. Press Ctrl+C to shut down.
+2020-11-20 15:49:18,970 Hosting environment: Development
+2020-11-20 15:49:18,972 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 15:49:35,591 Authentication initiated
+2020-11-20 15:49:35,768 Json web token generated
+2020-11-20 16:13:06,493 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:13:06,511 Hosting environment: Development
+2020-11-20 16:13:06,521 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 16:13:16,955 Authentication initiated
+2020-11-20 16:13:17,203 Json web token generated
+2020-11-20 16:14:30,238 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:14:30,263 Hosting environment: Development
+2020-11-20 16:14:30,267 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 16:14:38,759 Authentication initiated
+2020-11-20 16:14:38,987 Json web token generated
+2020-11-20 16:16:32,370 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:16:32,390 Hosting environment: Development
+2020-11-20 16:16:32,394 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 16:16:36,411 Authentication initiated
+2020-11-20 16:16:36,749 Json web token generated
+2020-11-20 16:27:01,801 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:27:01,819 Hosting environment: Development
+2020-11-20 16:27:01,829 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 16:27:22,360 Authentication initiated
+2020-11-20 16:27:22,620 Json web token generated
+2020-11-20 16:33:44,417 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:33:44,463 Hosting environment: Development
+2020-11-20 16:33:44,472 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 16:33:54,691 Authentication initiated
+2020-11-20 16:33:54,938 Json web token generated
+2020-11-20 16:36:03,727 Authentication initiated
+2020-11-20 16:36:03,731 Json web token generated

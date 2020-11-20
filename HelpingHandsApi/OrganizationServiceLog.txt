@@ -328,3 +328,337 @@ System.InvalidOperationException: Unable to resolve service for type 'HelpingHan
 2020-11-20 13:35:35,174 successfully got details
 2020-11-20 13:35:37,669 Http Get request Initiated
 2020-11-20 13:35:37,687 successfully got details
+2020-11-20 13:48:30,675 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:48:30,811 Hosting environment: Development
+2020-11-20 13:48:30,814 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:48:30,933 Failed to determine the https port for redirect.
+2020-11-20 13:48:46,453 Http Get request Initiated
+2020-11-20 13:48:47,608 successfully got details
+2020-11-20 13:49:02,032 Http Get request Initiated
+2020-11-20 13:49:02,242 successfully got details
+2020-11-20 13:50:02,273 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:50:02,293 Hosting environment: Development
+2020-11-20 13:50:02,299 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:50:02,388 Failed to determine the https port for redirect.
+2020-11-20 13:50:10,383 Http Get request Initiated
+2020-11-20 13:50:11,585 successfully got details
+2020-11-20 13:52:39,958 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:52:39,977 Hosting environment: Development
+2020-11-20 13:52:39,985 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:52:40,060 Failed to determine the https port for redirect.
+2020-11-20 13:57:06,244 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:57:06,262 Hosting environment: Development
+2020-11-20 13:57:06,266 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:57:06,316 Failed to determine the https port for redirect.
+2020-11-20 13:57:18,455 Http Get request Initiated
+2020-11-20 13:57:19,556 successfully got details
+2020-11-20 13:57:41,111 Http Get request Initiated
+2020-11-20 13:57:41,159 successfully got details
+2020-11-20 13:58:19,154 Http Get request Initiated
+2020-11-20 13:58:19,177 successfully got details
+2020-11-20 13:58:23,104 Http Get request Initiated
+2020-11-20 13:58:23,113 successfully got details
+2020-11-20 13:58:47,403 Http Get request Initiated
+2020-11-20 13:58:47,408 successfully got details
+2020-11-20 13:58:52,322 Http Get request Initiated
+2020-11-20 13:58:52,329 successfully got details
+2020-11-20 14:00:39,525 Application started. Press Ctrl+C to shut down.
+2020-11-20 14:00:39,552 Hosting environment: Development
+2020-11-20 14:00:39,570 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 14:00:39,634 Failed to determine the https port for redirect.
+2020-11-20 14:00:49,364 Http Get request Initiated
+2020-11-20 14:00:50,575 successfully got details
+2020-11-20 14:01:05,156 Http Get request Initiated
+2020-11-20 14:01:05,176 successfully got details
+2020-11-20 14:01:08,357 Http Get request Initiated
+2020-11-20 14:01:08,363 successfully got details
+2020-11-20 14:01:14,848 Http Get request Initiated
+2020-11-20 14:01:14,852 successfully got details
+2020-11-20 14:01:20,519 Http Get request Initiated
+2020-11-20 14:01:20,528 successfully got details
+2020-11-20 14:01:31,117 Http Get request Initiated
+2020-11-20 14:01:31,122 successfully got details
+2020-11-20 14:01:35,094 Http Get request Initiated
+2020-11-20 14:01:35,098 successfully got details
+2020-11-20 15:31:23,616 Application started. Press Ctrl+C to shut down.
+2020-11-20 15:31:23,686 Hosting environment: Development
+2020-11-20 15:31:23,688 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 15:31:23,702 Failed to determine the https port for redirect.
+2020-11-20 15:31:55,355 Http Put Request Initiated
+2020-11-20 15:32:17,865 Http Get request Initiated
+2020-11-20 15:32:17,903 successfully got details
+2020-11-20 15:34:04,705 Application started. Press Ctrl+C to shut down.
+2020-11-20 15:34:04,717 Hosting environment: Development
+2020-11-20 15:34:04,719 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 15:34:04,757 Failed to determine the https port for redirect.
+2020-11-20 15:34:55,435 Http Get request Initiated
+2020-11-20 15:34:56,428 successfully got details
+2020-11-20 15:35:29,405 Http Put Request Initiated
+2020-11-20 15:35:39,762 Http Get request Initiated
+2020-11-20 15:35:39,772 successfully got details
+2020-11-20 15:36:00,027 Http Put Request Initiated
+2020-11-20 15:36:06,420 Http Get request Initiated
+2020-11-20 15:36:06,426 successfully got details
+2020-11-20 15:49:05,906 Application started. Press Ctrl+C to shut down.
+2020-11-20 15:49:05,917 Hosting environment: Development
+2020-11-20 15:49:05,919 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 15:49:05,949 Failed to determine the https port for redirect.
+2020-11-20 15:49:36,030 Http Get request Initiated
+2020-11-20 15:49:36,914 successfully got details
+2020-11-20 15:49:40,750 Http get request initiated
+2020-11-20 15:49:41,051 Found Matching Organization
+2020-11-20 15:49:49,364 Http Get request Initiated
+2020-11-20 15:49:49,377 successfully got details
+2020-11-20 15:49:54,980 HttpPost Request Initiated
+2020-11-20 15:49:54,980 Model state is  valid
+2020-11-20 15:49:55,234 Http Get request Initiated
+2020-11-20 15:49:55,237 successfully got details
+2020-11-20 15:50:14,570 Http get request initiated
+2020-11-20 15:50:14,575 Found Matching Organization
+2020-11-20 15:50:14,586 Http Get request Initiated
+2020-11-20 15:50:14,588 successfully got details
+2020-11-20 15:50:19,857 Http get request initiated
+2020-11-20 15:50:19,859 Found Matching Organization
+2020-11-20 15:50:21,137 Http Get request Initiated
+2020-11-20 15:50:21,138 successfully got details
+2020-11-20 15:50:30,649 Http get request initiated
+2020-11-20 15:50:30,653 Found Matching Organization
+2020-11-20 15:50:30,666 Http Get request Initiated
+2020-11-20 15:50:30,669 successfully got details
+2020-11-20 15:50:32,641 Http get request initiated
+2020-11-20 15:50:32,645 Found Matching Organization
+2020-11-20 15:50:34,195 Http Get request Initiated
+2020-11-20 15:50:34,199 successfully got details
+2020-11-20 16:10:56,821 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:10:56,829 Hosting environment: Development
+2020-11-20 16:10:56,831 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 16:10:56,860 Failed to determine the https port for redirect.
+2020-11-20 16:11:12,356 Http Get request Initiated
+2020-11-20 16:11:16,758 successfully got details
+2020-11-20 16:11:43,336 Http Put Request Initiated
+2020-11-20 16:11:52,530 Http Put Request Initiated
+2020-11-20 16:11:56,212 Http Get request Initiated
+2020-11-20 16:11:56,219 successfully got details
+2020-11-20 16:13:06,003 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:13:06,017 Hosting environment: Development
+2020-11-20 16:13:06,019 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 16:13:06,061 Failed to determine the https port for redirect.
+2020-11-20 16:13:17,518 Http Get request Initiated
+2020-11-20 16:13:18,898 successfully got details
+2020-11-20 16:13:22,441 Http get request initiated
+2020-11-20 16:13:22,652 Found Matching Organization
+2020-11-20 16:13:25,782 Http Get request Initiated
+2020-11-20 16:13:25,799 successfully got details
+2020-11-20 16:13:29,393 Http get request initiated
+2020-11-20 16:13:29,404 Found Matching Organization
+2020-11-20 16:13:32,802 Http Get request Initiated
+2020-11-20 16:13:32,806 successfully got details
+2020-11-20 16:13:34,505 Http get request initiated
+2020-11-20 16:13:34,514 Found Matching Organization
+2020-11-20 16:13:37,832 Http Get request Initiated
+2020-11-20 16:13:37,839 successfully got details
+2020-11-20 16:13:41,208 Http get request initiated
+2020-11-20 16:13:41,214 Found Matching Organization
+2020-11-20 16:13:42,786 Http Get request Initiated
+2020-11-20 16:13:42,790 successfully got details
+2020-11-20 16:13:51,925 Http get request initiated
+2020-11-20 16:13:51,934 Found Matching Organization
+2020-11-20 16:13:55,828 Http Get request Initiated
+2020-11-20 16:13:55,831 successfully got details
+2020-11-20 16:14:41,266 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:14:41,281 Hosting environment: Development
+2020-11-20 16:14:41,283 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 16:14:41,335 Failed to determine the https port for redirect.
+2020-11-20 16:14:41,606 Http Get request Initiated
+2020-11-20 16:14:43,060 successfully got details
+2020-11-20 16:14:52,572 Http get request initiated
+2020-11-20 16:14:52,848 Found Matching Organization
+2020-11-20 16:16:23,334 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:16:23,361 Hosting environment: Development
+2020-11-20 16:16:23,366 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 16:16:23,436 Failed to determine the https port for redirect.
+2020-11-20 16:16:37,109 Http Get request Initiated
+2020-11-20 16:16:38,821 successfully got details
+2020-11-20 16:16:46,356 Http get request initiated
+2020-11-20 16:16:46,642 Found Matching Organization
+2020-11-20 16:16:46,686 Http Put Request Initiated
+2020-11-20 16:16:49,574 Http Get request Initiated
+2020-11-20 16:16:49,576 successfully got details
+2020-11-20 16:16:53,340 Http get request initiated
+2020-11-20 16:16:53,349 Found Matching Organization
+2020-11-20 16:16:53,357 Http Put Request Initiated
+2020-11-20 16:16:55,988 Http Get request Initiated
+2020-11-20 16:16:55,991 successfully got details
+2020-11-20 16:17:00,563 Http get request initiated
+2020-11-20 16:17:00,567 Found Matching Organization
+2020-11-20 16:17:00,571 Http Put Request Initiated
+2020-11-20 16:17:02,894 Http Get request Initiated
+2020-11-20 16:17:02,898 successfully got details
+2020-11-20 16:17:29,192 Http get request initiated
+2020-11-20 16:17:29,195 Found Matching Organization
+2020-11-20 16:17:29,211 Http Get request Initiated
+2020-11-20 16:17:29,213 successfully got details
+2020-11-20 16:17:34,277 Http get request initiated
+2020-11-20 16:17:34,283 Found Matching Organization
+2020-11-20 16:17:34,290 Http Put Request Initiated
+2020-11-20 16:17:38,394 Http Get request Initiated
+2020-11-20 16:17:38,401 successfully got details
+2020-11-20 16:17:57,142 Http get request initiated
+2020-11-20 16:17:57,146 Found Matching Organization
+2020-11-20 16:17:57,150 Http Put Request Initiated
+2020-11-20 16:17:59,743 Http Get request Initiated
+2020-11-20 16:17:59,747 successfully got details
+2020-11-20 16:18:01,033 Http get request initiated
+2020-11-20 16:18:01,037 Found Matching Organization
+2020-11-20 16:18:01,040 Http Put Request Initiated
+2020-11-20 16:18:02,060 Http Get request Initiated
+2020-11-20 16:18:02,065 successfully got details
+2020-11-20 16:18:03,291 Http get request initiated
+2020-11-20 16:18:03,296 Found Matching Organization
+2020-11-20 16:18:03,308 Http Put Request Initiated
+2020-11-20 16:18:04,147 Http Get request Initiated
+2020-11-20 16:18:04,150 successfully got details
+2020-11-20 16:18:15,944 Http get request initiated
+2020-11-20 16:18:15,947 Found Matching Organization
+2020-11-20 16:18:15,961 Http Get request Initiated
+2020-11-20 16:18:15,964 successfully got details
+2020-11-20 16:18:18,249 Http get request initiated
+2020-11-20 16:18:18,254 Found Matching Organization
+2020-11-20 16:18:18,261 Http Put Request Initiated
+2020-11-20 16:18:19,560 Http Get request Initiated
+2020-11-20 16:18:19,562 successfully got details
+2020-11-20 16:18:21,527 Http get request initiated
+2020-11-20 16:18:21,529 Found Matching Organization
+2020-11-20 16:18:21,533 Http Put Request Initiated
+2020-11-20 16:18:22,882 Http Get request Initiated
+2020-11-20 16:18:22,885 successfully got details
+2020-11-20 16:18:24,561 Http get request initiated
+2020-11-20 16:18:24,565 Found Matching Organization
+2020-11-20 16:18:24,568 Http Put Request Initiated
+2020-11-20 16:18:25,579 Http Get request Initiated
+2020-11-20 16:18:25,582 successfully got details
+2020-11-20 16:18:27,052 Http get request initiated
+2020-11-20 16:18:27,056 Found Matching Organization
+2020-11-20 16:18:27,060 Http Put Request Initiated
+2020-11-20 16:18:27,934 Http Get request Initiated
+2020-11-20 16:18:27,936 successfully got details
+2020-11-20 16:18:29,434 Http get request initiated
+2020-11-20 16:18:29,438 Found Matching Organization
+2020-11-20 16:18:29,443 Http Put Request Initiated
+2020-11-20 16:18:30,506 Http Get request Initiated
+2020-11-20 16:18:30,509 successfully got details
+2020-11-20 16:18:32,182 Http get request initiated
+2020-11-20 16:18:32,185 Found Matching Organization
+2020-11-20 16:18:32,189 Http Put Request Initiated
+2020-11-20 16:18:32,905 Http Get request Initiated
+2020-11-20 16:18:32,908 successfully got details
+2020-11-20 16:18:34,652 Http get request initiated
+2020-11-20 16:18:34,658 Found Matching Organization
+2020-11-20 16:18:34,662 Http Put Request Initiated
+2020-11-20 16:18:35,333 Http Get request Initiated
+2020-11-20 16:18:35,338 successfully got details
+2020-11-20 16:18:37,971 Http get request initiated
+2020-11-20 16:18:37,975 Found Matching Organization
+2020-11-20 16:18:37,980 Http Put Request Initiated
+2020-11-20 16:18:39,024 Http Get request Initiated
+2020-11-20 16:18:39,026 successfully got details
+2020-11-20 16:18:40,979 Http get request initiated
+2020-11-20 16:18:40,981 Found Matching Organization
+2020-11-20 16:18:40,984 Http Put Request Initiated
+2020-11-20 16:18:41,826 Http Get request Initiated
+2020-11-20 16:18:41,829 successfully got details
+2020-11-20 16:27:03,267 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:27:03,279 Hosting environment: Development
+2020-11-20 16:27:03,281 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 16:27:03,315 Failed to determine the https port for redirect.
+2020-11-20 16:27:22,975 Http Get request Initiated
+2020-11-20 16:27:24,143 successfully got details
+2020-11-20 16:27:38,038 Http get request initiated
+2020-11-20 16:27:38,242 Found Matching Organization
+2020-11-20 16:27:38,269 Http Put Request Initiated
+2020-11-20 16:27:38,525 Http Get request Initiated
+2020-11-20 16:27:38,527 successfully got details
+2020-11-20 16:27:50,022 Http get request initiated
+2020-11-20 16:27:50,032 Found Matching Organization
+2020-11-20 16:27:50,037 Http Put Request Initiated
+2020-11-20 16:27:50,050 Http Get request Initiated
+2020-11-20 16:27:50,052 successfully got details
+2020-11-20 16:28:02,322 Http get request initiated
+2020-11-20 16:28:02,332 Found Matching Organization
+2020-11-20 16:28:02,339 Http Put Request Initiated
+2020-11-20 16:28:02,441 Http Get request Initiated
+2020-11-20 16:28:02,444 successfully got details
+2020-11-20 16:28:15,012 Http get request initiated
+2020-11-20 16:28:15,017 Found Matching Organization
+2020-11-20 16:28:15,024 Http Put Request Initiated
+2020-11-20 16:28:15,048 Http Get request Initiated
+2020-11-20 16:28:15,052 successfully got details
+2020-11-20 16:28:21,138 Http Get request Initiated
+2020-11-20 16:28:21,144 successfully got details
+2020-11-20 16:28:22,588 Http get request initiated
+2020-11-20 16:28:22,594 Found Matching Organization
+2020-11-20 16:28:22,598 Http Put Request Initiated
+2020-11-20 16:28:24,382 Http Get request Initiated
+2020-11-20 16:28:24,387 successfully got details
+2020-11-20 16:28:26,667 Http get request initiated
+2020-11-20 16:28:26,671 Found Matching Organization
+2020-11-20 16:28:26,676 Http Put Request Initiated
+2020-11-20 16:28:27,654 Http Get request Initiated
+2020-11-20 16:28:27,663 successfully got details
+2020-11-20 16:28:29,164 Http get request initiated
+2020-11-20 16:28:29,170 Found Matching Organization
+2020-11-20 16:28:29,181 Http Put Request Initiated
+2020-11-20 16:28:34,927 Http Get request Initiated
+2020-11-20 16:28:34,931 successfully got details
+2020-11-20 16:28:36,077 Http get request initiated
+2020-11-20 16:28:36,083 Found Matching Organization
+2020-11-20 16:28:36,091 Http Put Request Initiated
+2020-11-20 16:28:37,884 Http Get request Initiated
+2020-11-20 16:28:37,892 successfully got details
+2020-11-20 16:28:40,385 Http get request initiated
+2020-11-20 16:28:40,391 Found Matching Organization
+2020-11-20 16:28:40,397 Http Put Request Initiated
+2020-11-20 16:28:41,405 Http Get request Initiated
+2020-11-20 16:28:41,409 successfully got details
+2020-11-20 16:28:43,707 Http get request initiated
+2020-11-20 16:28:43,711 Found Matching Organization
+2020-11-20 16:28:43,718 Http Put Request Initiated
+2020-11-20 16:28:46,089 Http Get request Initiated
+2020-11-20 16:28:46,093 successfully got details
+2020-11-20 16:28:56,459 Http get request initiated
+2020-11-20 16:28:56,463 Found Matching Organization
+2020-11-20 16:28:56,478 Http Put Request Initiated
+2020-11-20 16:28:56,498 Http Get request Initiated
+2020-11-20 16:28:56,501 successfully got details
+2020-11-20 16:28:59,845 Http get request initiated
+2020-11-20 16:28:59,850 Found Matching Organization
+2020-11-20 16:28:59,858 Http Put Request Initiated
+2020-11-20 16:29:00,677 Http Get request Initiated
+2020-11-20 16:29:00,681 successfully got details
+2020-11-20 16:29:09,708 Http get request initiated
+2020-11-20 16:29:09,711 Found Matching Organization
+2020-11-20 16:29:09,714 Http Put Request Initiated
+2020-11-20 16:29:09,731 Http Get request Initiated
+2020-11-20 16:29:09,733 successfully got details
+2020-11-20 16:29:19,710 Http get request initiated
+2020-11-20 16:29:19,713 Found Matching Organization
+2020-11-20 16:29:19,718 Http Put Request Initiated
+2020-11-20 16:29:19,738 Http Get request Initiated
+2020-11-20 16:29:19,741 successfully got details
+2020-11-20 16:33:44,149 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:33:44,164 Hosting environment: Development
+2020-11-20 16:33:44,169 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 16:33:44,229 Failed to determine the https port for redirect.
+2020-11-20 16:33:55,244 Http Get request Initiated
+2020-11-20 16:33:56,625 successfully got details
+2020-11-20 16:34:07,611 Http Get request Initiated
+2020-11-20 16:34:07,665 successfully got details
+2020-11-20 16:34:25,711 Http get request initiated
+2020-11-20 16:34:25,928 Found Matching Organization
+2020-11-20 16:34:25,959 Http Put Request Initiated
+2020-11-20 16:34:26,152 Http Get request Initiated
+2020-11-20 16:34:26,154 successfully got details
+2020-11-20 16:35:22,255 Http Get request Initiated
+2020-11-20 16:35:22,268 successfully got details
+2020-11-20 16:36:03,768 Http Get request Initiated
+2020-11-20 16:36:03,779 successfully got details

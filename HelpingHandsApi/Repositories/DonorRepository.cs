@@ -32,5 +32,18 @@ namespace HelpingHandsApi.Repositories
         {
             throw new NotImplementedException();
         }
+
+     
+
+
+        public Donar Update(Donar org, double sum)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Donar Update( Donar organization)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

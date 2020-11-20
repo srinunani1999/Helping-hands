@@ -82,6 +82,10 @@ namespace HelpingHandsApi.Controllers
            
             
         }
+
+
+
+
         [HttpPost]
         public ActionResult<Organization> PostOrganization([FromBody] Organization organization)
         {
@@ -111,6 +115,30 @@ namespace HelpingHandsApi.Controllers
             }
             return BadRequest();
            
+        }
+
+
+        [HttpPut]
+        public ActionResult<Organization> UpdateOrganization(Organization organization)
+        {
+            try
+            {
+                _log4net.Info("Http Put Request Initiated");
+               var org= _repository.Update(organization);
+                if (org!=null)
+                {
+                    return Ok(org);
+                }
+               
+
+            }
+            catch (Exception)
+            {
+                _log4net.Info("Http Put Request Failed");
+
+                return NotFound();
+            }
+            return BadRequest();
         }
 
       

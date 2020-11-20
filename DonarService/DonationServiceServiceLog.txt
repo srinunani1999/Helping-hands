@@ -107,3 +107,246 @@
 2020-11-20 13:35:33,971 All the donars were displayed
 2020-11-20 13:35:36,320 Http get request initiated
 2020-11-20 13:35:36,390 All the donars were displayed
+2020-11-20 13:48:30,763 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:48:30,802 Hosting environment: Development
+2020-11-20 13:48:30,805 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 13:50:02,392 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:50:02,408 Hosting environment: Development
+2020-11-20 13:50:02,414 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 13:52:40,069 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:52:40,095 Hosting environment: Development
+2020-11-20 13:52:40,103 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 13:57:11,048 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:57:11,057 Hosting environment: Development
+2020-11-20 13:57:11,059 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 13:57:38,905 Http Ppost Request Initiated
+2020-11-20 13:57:38,905 Obtained Valid Model
+2020-11-20 13:58:19,080 Http Ppost Request Initiated
+2020-11-20 13:58:19,080 Obtained Valid Model
+2020-11-20 13:58:20,530 Http get request initiated
+2020-11-20 13:58:20,556 All the donars were displayed
+2020-11-20 13:58:47,348 Http Ppost Request Initiated
+2020-11-20 13:58:47,348 Obtained Valid Model
+2020-11-20 13:58:49,284 Http get request initiated
+2020-11-20 13:58:49,290 All the donars were displayed
+2020-11-20 14:00:39,261 Application started. Press Ctrl+C to shut down.
+2020-11-20 14:00:39,275 Hosting environment: Development
+2020-11-20 14:00:39,281 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 14:01:03,212 Http Ppost Request Initiated
+2020-11-20 14:01:03,212 Obtained Valid Model
+2020-11-20 14:01:07,063 Http get request initiated
+2020-11-20 14:01:07,079 All the donars were displayed
+2020-11-20 14:01:09,294 Http get request initiated
+2020-11-20 14:01:09,296 All the donars were displayed
+2020-11-20 14:01:19,169 Http get request initiated
+2020-11-20 14:01:19,176 All the donars were displayed
+2020-11-20 14:01:31,079 Http Ppost Request Initiated
+2020-11-20 14:01:31,079 Obtained Valid Model
+2020-11-20 14:01:33,059 Http get request initiated
+2020-11-20 14:01:33,067 All the donars were displayed
+2020-11-20 15:49:30,410 Application started. Press Ctrl+C to shut down.
+2020-11-20 15:49:30,449 Hosting environment: Development
+2020-11-20 15:49:30,450 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 15:49:38,898 Http get request initiated
+2020-11-20 15:49:40,641 All the donars were displayed
+2020-11-20 15:50:13,846 Http Ppost Request Initiated
+2020-11-20 15:50:13,846 Obtained Valid Model
+2020-11-20 15:50:19,847 Http get request initiated
+2020-11-20 15:50:19,852 All the donars were displayed
+2020-11-20 15:50:30,602 Http Ppost Request Initiated
+2020-11-20 15:50:30,603 Obtained Valid Model
+2020-11-20 15:50:32,623 Http get request initiated
+2020-11-20 15:50:32,629 All the donars were displayed
+2020-11-20 16:13:09,585 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:13:09,633 Hosting environment: Development
+2020-11-20 16:13:09,635 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 16:13:20,808 Http get request initiated
+2020-11-20 16:13:22,375 All the donars were displayed
+2020-11-20 16:13:22,773 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-20 16:13:29,318 Http get request initiated
+2020-11-20 16:13:29,378 All the donars were displayed
+2020-11-20 16:13:29,422 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-20 16:13:34,466 Http get request initiated
+2020-11-20 16:13:34,490 All the donars were displayed
+2020-11-20 16:13:34,560 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-20 16:13:41,187 Http get request initiated
+2020-11-20 16:13:41,195 All the donars were displayed
+2020-11-20 16:13:41,240 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-20 16:13:51,888 Http get request initiated
+2020-11-20 16:13:51,896 All the donars were displayed
+2020-11-20 16:13:51,956 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-20 16:14:29,793 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:14:29,805 Hosting environment: Development
+2020-11-20 16:14:29,807 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 16:14:45,259 Http get request initiated
+2020-11-20 16:14:47,211 All the donars were displayed
+2020-11-20 16:15:33,724 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-20 16:16:41,374 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:16:41,393 Hosting environment: Development
+2020-11-20 16:16:41,396 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 16:16:41,944 Http get request initiated
+2020-11-20 16:16:43,968 All the donars were displayed
+2020-11-20 16:16:51,301 Http get request initiated
+2020-11-20 16:16:51,370 All the donars were displayed
+2020-11-20 16:16:58,922 Http get request initiated
+2020-11-20 16:16:58,940 All the donars were displayed
+2020-11-20 16:17:28,217 Http Ppost Request Initiated
+2020-11-20 16:17:28,217 Obtained Valid Model
+2020-11-20 16:17:32,339 Http get request initiated
+2020-11-20 16:17:32,344 All the donars were displayed
+2020-11-20 16:17:53,370 Http get request initiated
+2020-11-20 16:17:53,389 All the donars were displayed
+2020-11-20 16:18:01,017 Http get request initiated
+2020-11-20 16:18:01,024 All the donars were displayed
+2020-11-20 16:18:03,273 Http get request initiated
+2020-11-20 16:18:03,282 All the donars were displayed
+2020-11-20 16:18:15,908 Http Ppost Request Initiated
+2020-11-20 16:18:15,909 Obtained Valid Model
+2020-11-20 16:18:18,234 Http get request initiated
+2020-11-20 16:18:18,240 All the donars were displayed
+2020-11-20 16:18:21,511 Http get request initiated
+2020-11-20 16:18:21,516 All the donars were displayed
+2020-11-20 16:18:24,546 Http get request initiated
+2020-11-20 16:18:24,550 All the donars were displayed
+2020-11-20 16:18:27,043 Http get request initiated
+2020-11-20 16:18:27,045 All the donars were displayed
+2020-11-20 16:18:29,420 Http get request initiated
+2020-11-20 16:18:29,425 All the donars were displayed
+2020-11-20 16:18:32,168 Http get request initiated
+2020-11-20 16:18:32,174 All the donars were displayed
+2020-11-20 16:18:34,639 Http get request initiated
+2020-11-20 16:18:34,644 All the donars were displayed
+2020-11-20 16:18:37,955 Http get request initiated
+2020-11-20 16:18:37,962 All the donars were displayed
+2020-11-20 16:18:40,968 Http get request initiated
+2020-11-20 16:18:40,972 All the donars were displayed
+2020-11-20 16:27:01,375 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:27:01,392 Hosting environment: Development
+2020-11-20 16:27:01,396 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 16:27:35,477 Http Ppost Request Initiated
+2020-11-20 16:27:35,477 Obtained Valid Model
+2020-11-20 16:27:49,971 Http Ppost Request Initiated
+2020-11-20 16:27:49,971 Obtained Valid Model
+2020-11-20 16:28:02,302 Http Ppost Request Initiated
+2020-11-20 16:28:02,302 Obtained Valid Model
+2020-11-20 16:28:14,984 Http Ppost Request Initiated
+2020-11-20 16:28:14,984 Obtained Valid Model
+2020-11-20 16:28:22,551 Http get request initiated
+2020-11-20 16:28:22,573 All the donars were displayed
+2020-11-20 16:28:26,643 Http get request initiated
+2020-11-20 16:28:26,653 All the donars were displayed
+2020-11-20 16:28:29,147 Http get request initiated
+2020-11-20 16:28:29,152 All the donars were displayed
+2020-11-20 16:28:36,061 Http get request initiated
+2020-11-20 16:28:36,066 All the donars were displayed
+2020-11-20 16:28:40,368 Http get request initiated
+2020-11-20 16:28:40,374 All the donars were displayed
+2020-11-20 16:28:43,693 Http get request initiated
+2020-11-20 16:28:43,697 All the donars were displayed
+2020-11-20 16:28:56,436 Http Ppost Request Initiated
+2020-11-20 16:28:56,436 Obtained Valid Model
+2020-11-20 16:28:59,826 Http get request initiated
+2020-11-20 16:28:59,831 All the donars were displayed
+2020-11-20 16:29:09,679 Http Ppost Request Initiated
+2020-11-20 16:29:09,679 Obtained Valid Model
+2020-11-20 16:29:19,686 Http Ppost Request Initiated
+2020-11-20 16:29:19,686 Obtained Valid Model
+2020-11-20 16:33:44,106 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:33:44,126 Hosting environment: Development
+2020-11-20 16:33:44,138 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 16:34:03,658 Http get request initiated
+2020-11-20 16:34:05,221 All the donars were displayed
+2020-11-20 16:34:24,789 Http Ppost Request Initiated
+2020-11-20 16:34:24,790 Obtained Valid Model
+2020-11-20 16:35:20,279 Http get request initiated
+2020-11-20 16:35:20,315 All the donars were displayed

@@ -11,6 +11,7 @@ namespace HelpingHandsApi.Repositories
         IEnumerable<T> Get();
         T GetById(int id);
         int Add(T org);
+        T Update(T organization);
 
     }
 }
