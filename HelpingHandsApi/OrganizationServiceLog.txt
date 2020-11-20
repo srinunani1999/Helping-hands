@@ -198,3 +198,133 @@ System.InvalidOperationException: Unable to resolve service for type 'HelpingHan
 2020-11-19 18:00:25,200 Hosting environment: Development
 2020-11-19 18:00:25,201 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
 2020-11-19 18:00:25,231 Failed to determine the https port for redirect.
+2020-11-20 12:47:17,350 Application started. Press Ctrl+C to shut down.
+2020-11-20 12:47:17,381 Hosting environment: Development
+2020-11-20 12:47:17,383 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 12:47:17,397 Failed to determine the https port for redirect.
+2020-11-20 12:47:22,521 Http Get request Initiated
+2020-11-20 12:47:25,581 successfully got details
+2020-11-20 12:52:46,899 Application started. Press Ctrl+C to shut down.
+2020-11-20 12:52:46,914 Hosting environment: Development
+2020-11-20 12:52:46,918 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 12:52:46,974 Failed to determine the https port for redirect.
+2020-11-20 12:53:10,116 Http Get request Initiated
+2020-11-20 12:53:11,490 successfully got details
+2020-11-20 12:53:17,607 Http Get request Initiated
+2020-11-20 12:53:17,651 successfully got details
+2020-11-20 13:07:47,931 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:07:47,940 Hosting environment: Development
+2020-11-20 13:07:47,941 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:07:47,977 Failed to determine the https port for redirect.
+2020-11-20 13:07:55,883 Http Get request Initiated
+2020-11-20 13:07:57,919 successfully got details
+2020-11-20 13:08:13,789 HttpPost Request Initiated
+2020-11-20 13:08:13,789 Model state is  valid
+2020-11-20 13:09:36,429 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:09:36,439 Hosting environment: Development
+2020-11-20 13:09:36,441 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:09:36,479 Failed to determine the https port for redirect.
+2020-11-20 13:09:38,065 Http Get request Initiated
+2020-11-20 13:09:38,964 successfully got details
+2020-11-20 13:09:51,865 HttpPost Request Initiated
+2020-11-20 13:09:51,866 Model state is  valid
+2020-11-20 13:10:04,989 Http Get request Initiated
+2020-11-20 13:10:05,001 successfully got details
+2020-11-20 13:10:25,752 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:10:25,766 Hosting environment: Development
+2020-11-20 13:10:25,768 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:10:25,816 Failed to determine the https port for redirect.
+2020-11-20 13:10:33,173 Http Get request Initiated
+2020-11-20 13:10:34,250 successfully got details
+2020-11-20 13:10:55,392 HttpPost Request Initiated
+2020-11-20 13:10:55,392 Model state is  valid
+2020-11-20 13:10:55,831 Http Get request Initiated
+2020-11-20 13:10:55,844 successfully got details
+2020-11-20 13:11:00,571 Http Get request Initiated
+2020-11-20 13:11:00,575 successfully got details
+2020-11-20 13:11:32,039 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:11:32,049 Hosting environment: Development
+2020-11-20 13:11:32,050 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:11:32,094 Failed to determine the https port for redirect.
+2020-11-20 13:12:01,725 Http Get request Initiated
+2020-11-20 13:12:03,400 successfully got details
+2020-11-20 13:12:57,279 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:12:57,304 Hosting environment: Development
+2020-11-20 13:12:57,309 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:12:57,399 Failed to determine the https port for redirect.
+2020-11-20 13:13:12,413 Http Get request Initiated
+2020-11-20 13:13:13,926 successfully got details
+2020-11-20 13:14:47,750 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:14:47,767 Hosting environment: Development
+2020-11-20 13:14:47,772 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:14:47,841 Failed to determine the https port for redirect.
+2020-11-20 13:14:55,810 Http Get request Initiated
+2020-11-20 13:14:56,860 successfully got details
+2020-11-20 13:15:02,691 HttpPost Request Initiated
+2020-11-20 13:15:02,692 Model state is  valid
+2020-11-20 13:15:02,983 Http Get request Initiated
+2020-11-20 13:15:02,992 successfully got details
+2020-11-20 13:15:27,730 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:15:27,747 Hosting environment: Development
+2020-11-20 13:15:27,749 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:15:27,800 Failed to determine the https port for redirect.
+2020-11-20 13:15:36,385 Http Get request Initiated
+2020-11-20 13:15:37,898 successfully got details
+2020-11-20 13:15:47,711 HttpPost Request Initiated
+2020-11-20 13:15:47,711 Model state is  valid
+2020-11-20 13:15:48,177 Http Get request Initiated
+2020-11-20 13:15:48,189 successfully got details
+2020-11-20 13:17:28,528 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:17:28,540 Hosting environment: Development
+2020-11-20 13:17:28,542 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:17:28,576 Failed to determine the https port for redirect.
+2020-11-20 13:17:28,800 Http Get request Initiated
+2020-11-20 13:17:29,839 successfully got details
+2020-11-20 13:25:16,406 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:25:16,422 Hosting environment: Development
+2020-11-20 13:25:16,424 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:25:16,479 Failed to determine the https port for redirect.
+2020-11-20 13:25:27,928 Http Get request Initiated
+2020-11-20 13:25:28,814 successfully got details
+2020-11-20 13:25:33,193 Http Get request Initiated
+2020-11-20 13:25:33,233 successfully got details
+2020-11-20 13:25:35,772 Http Get request Initiated
+2020-11-20 13:25:35,783 successfully got details
+2020-11-20 13:25:53,594 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:25:53,605 Hosting environment: Development
+2020-11-20 13:25:53,608 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:25:53,644 Failed to determine the https port for redirect.
+2020-11-20 13:25:59,051 Http Get request Initiated
+2020-11-20 13:26:00,128 successfully got details
+2020-11-20 13:32:00,179 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:32:00,198 Hosting environment: Development
+2020-11-20 13:32:00,204 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:32:00,261 Failed to determine the https port for redirect.
+2020-11-20 13:32:10,766 Http Get request Initiated
+2020-11-20 13:32:12,105 successfully got details
+2020-11-20 13:32:27,192 Http Get request Initiated
+2020-11-20 13:32:27,232 successfully got details
+2020-11-20 13:32:33,520 Http Get request Initiated
+2020-11-20 13:32:33,537 successfully got details
+2020-11-20 13:32:37,126 Http Get request Initiated
+2020-11-20 13:32:37,133 successfully got details
+2020-11-20 13:32:48,632 Http Get request Initiated
+2020-11-20 13:32:48,639 successfully got details
+2020-11-20 13:33:34,128 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:33:34,157 Hosting environment: Development
+2020-11-20 13:33:34,165 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:33:34,274 Failed to determine the https port for redirect.
+2020-11-20 13:33:46,581 Http Get request Initiated
+2020-11-20 13:33:48,402 successfully got details
+2020-11-20 13:33:57,636 Http Get request Initiated
+2020-11-20 13:33:57,709 successfully got details
+2020-11-20 13:35:18,136 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:35:18,149 Hosting environment: Development
+2020-11-20 13:35:18,152 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-20 13:35:18,203 Failed to determine the https port for redirect.
+2020-11-20 13:35:26,920 Http Get request Initiated
+2020-11-20 13:35:28,153 successfully got details
+2020-11-20 13:35:35,121 Http Get request Initiated
+2020-11-20 13:35:35,174 successfully got details
+2020-11-20 13:35:37,669 Http Get request Initiated
+2020-11-20 13:35:37,687 successfully got details

@@ -76,3 +76,34 @@
 2020-11-19 18:01:14,327 Obtained Valid Model
 2020-11-19 18:01:24,979 Http get request initiated
 2020-11-19 18:01:25,014 Object Found
+2020-11-20 13:28:48,336 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:28:48,344 Hosting environment: Development
+2020-11-20 13:28:48,346 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 13:28:53,831 Http get request initiated
+2020-11-20 13:28:55,133 All the donars were displayed
+2020-11-20 13:31:18,445 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:31:18,457 Hosting environment: Development
+2020-11-20 13:31:18,459 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 13:32:00,116 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:32:00,137 Hosting environment: Development
+2020-11-20 13:32:00,142 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 13:32:15,038 Http get request initiated
+2020-11-20 13:32:16,514 All the donars were displayed
+2020-11-20 13:32:29,521 Http get request initiated
+2020-11-20 13:32:29,587 All the donars were displayed
+2020-11-20 13:32:35,346 Http get request initiated
+2020-11-20 13:32:35,362 All the donars were displayed
+2020-11-20 13:32:38,793 Http get request initiated
+2020-11-20 13:32:38,810 All the donars were displayed
+2020-11-20 13:33:33,971 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:33:34,010 Hosting environment: Development
+2020-11-20 13:33:34,037 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 13:33:50,374 Http get request initiated
+2020-11-20 13:33:52,498 All the donars were displayed
+2020-11-20 13:35:16,542 Application started. Press Ctrl+C to shut down.
+2020-11-20 13:35:16,552 Hosting environment: Development
+2020-11-20 13:35:16,554 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 13:35:32,482 Http get request initiated
+2020-11-20 13:35:33,971 All the donars were displayed
+2020-11-20 13:35:36,320 Http get request initiated
+2020-11-20 13:35:36,390 All the donars were displayed
