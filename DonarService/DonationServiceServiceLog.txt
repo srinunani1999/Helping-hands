@@ -350,3 +350,28 @@ System.InvalidOperationException: Unable to resolve service for type 'HelpingHan
 2020-11-20 16:34:24,790 Obtained Valid Model
 2020-11-20 16:35:20,279 Http get request initiated
 2020-11-20 16:35:20,315 All the donars were displayed
+2020-11-20 16:50:10,508 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:50:10,537 Hosting environment: Development
+2020-11-20 16:50:10,542 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 16:50:46,422 Http get request initiated
+2020-11-20 16:50:49,078 All the donars were displayed
+2020-11-20 16:52:04,006 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:52:04,029 Hosting environment: Development
+2020-11-20 16:52:04,034 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 16:53:31,691 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:53:31,719 Hosting environment: Development
+2020-11-20 16:53:31,728 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 16:54:00,450 Http Ppost Request Initiated
+2020-11-20 16:54:00,451 Obtained Valid Model
+2020-11-20 16:55:21,250 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:55:21,267 Hosting environment: Development
+2020-11-20 16:55:21,271 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 16:59:48,307 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:59:48,357 Hosting environment: Development
+2020-11-20 16:59:48,362 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 17:01:13,772 Application started. Press Ctrl+C to shut down.
+2020-11-20 17:01:13,791 Hosting environment: Development
+2020-11-20 17:01:13,794 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-20 17:06:59,002 Application started. Press Ctrl+C to shut down.
+2020-11-20 17:06:59,025 Hosting environment: Development
+2020-11-20 17:06:59,027 Content root path: E:\Core Projects\HelpingHands\DonarService

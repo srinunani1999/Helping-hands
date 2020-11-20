@@ -180,3 +180,32 @@
 2020-11-20 16:33:54,938 Json web token generated
 2020-11-20 16:36:03,727 Authentication initiated
 2020-11-20 16:36:03,731 Json web token generated
+2020-11-20 16:50:09,904 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:50:09,918 Hosting environment: Development
+2020-11-20 16:50:09,922 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 16:50:42,157 Authentication initiated
+2020-11-20 16:50:42,415 Json web token generated
+2020-11-20 16:52:04,388 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:52:04,416 Hosting environment: Development
+2020-11-20 16:52:04,429 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 16:52:18,041 Authentication initiated
+2020-11-20 16:52:18,326 Json web token generated
+2020-11-20 16:53:32,198 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:53:32,218 Hosting environment: Development
+2020-11-20 16:53:32,225 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 16:53:44,040 Authentication initiated
+2020-11-20 16:53:44,329 Json web token generated
+2020-11-20 16:55:31,004 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:55:31,016 Hosting environment: Development
+2020-11-20 16:55:31,018 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 16:55:34,014 Authentication initiated
+2020-11-20 16:55:34,336 Json web token generated
+2020-11-20 16:59:48,348 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:59:48,394 Hosting environment: Development
+2020-11-20 16:59:48,400 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 17:01:15,537 Application started. Press Ctrl+C to shut down.
+2020-11-20 17:01:15,550 Hosting environment: Development
+2020-11-20 17:01:15,553 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-20 17:06:58,963 Application started. Press Ctrl+C to shut down.
+2020-11-20 17:06:59,004 Hosting environment: Development
+2020-11-20 17:06:59,008 Content root path: E:\Core Projects\HelpingHands\AuthenticationService

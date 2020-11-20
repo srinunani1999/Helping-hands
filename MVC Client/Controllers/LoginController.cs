@@ -15,6 +15,8 @@ namespace MVC_Client.Controllers
     
     public class LoginController : Controller
     {
+        static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(DonarController));
+
         // GET: LoginController
         public ActionResult Index()
         {
@@ -30,7 +32,7 @@ namespace MVC_Client.Controllers
         public async Task<IActionResult> Login(User user)
         {
 
-          //  _log4net.Info("User Login");
+            _log4net.Info("User Login");
             User Item = new User();
             using (var httpClient = new HttpClient())
             {
@@ -69,7 +71,7 @@ namespace MVC_Client.Controllers
         }
         public ActionResult Logout()
         {
-           // _log4net.Info("User Log Out");
+            _log4net.Info("User Log Out");
             HttpContext.Session.Remove("token");
             // HttpContext.Session.SetString("user", null);
 

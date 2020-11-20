@@ -15,6 +15,8 @@ namespace MVC_Client.Controllers
     public class DonarController : Controller
     {
         // GET: DonarController
+        static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(DonarController));
+
         public ActionResult Index()
         {
             return View();
@@ -27,11 +29,12 @@ namespace MVC_Client.Controllers
 
             if (HttpContext.Session.GetString("token") == null)
             {
-
+                _log4net.Error("Session Expired while acccessing details");
+                
                 return RedirectToAction("Login", "Login");
 
             }
-
+            _log4net.Info("donar details of the organization with " + id);
             List<Donar> donars = new List<Donar>();
             using (var client = new HttpClient())
             {
@@ -96,10 +99,12 @@ namespace MVC_Client.Controllers
             
             if (HttpContext.Session.GetString("token") == null)
             {
+                _log4net.Error("Session Expired while creating donar");
 
                 return RedirectToAction("Login", "Login");
 
             }
+            _log4net.Info("http post  request initiated by donar "+donar.DonorName);
 
             //Code for Donation
             donar.organization_Id = id;

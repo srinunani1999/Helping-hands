@@ -14,16 +14,19 @@ namespace MVC_Client.Controllers
 {
     public class OrganizationController : Controller
     {
+        static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(DonarController));
+
         // GET: OrganizationController
         public async Task<ActionResult> IndexAsync()
         {
             if (HttpContext.Session.GetString("token") == null)
             {
-               // _log4net.Info("token not found");
+                _log4net.Error("token not found");
 
                 return RedirectToAction("Login","Login");
 
             }
+            _log4net.Info("Http get request initiated for organization details");
             List<Organization> organizations = new List<Organization>();
             using (var client = new HttpClient())
             {
@@ -46,7 +49,7 @@ namespace MVC_Client.Controllers
         {
             if (HttpContext.Session.GetString("token") == null)
             {
-                // _log4net.Info("token not found");
+                 _log4net.Info("token not found");
 
                 return RedirectToAction("Login", "Login");
 
@@ -60,10 +63,12 @@ namespace MVC_Client.Controllers
         {
             if (HttpContext.Session.GetString("token") == null)
             {
+                _log4net.Info("token not found");
 
                 return RedirectToAction("Login", "Login");
 
             }
+            _log4net.Info("http post request initiaited for posting organization");
             using (var httpclinet=new HttpClient())
             {
                 StringContent content = new StringContent(JsonConvert.SerializeObject(organization), Encoding.UTF8, "application/json");

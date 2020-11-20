@@ -1,0 +1,58 @@
+2020-11-20 16:50:12,867 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:50:12,884 Hosting environment: Development
+2020-11-20 16:50:12,888 Content root path: E:\Core Projects\HelpingHands\MVC Client
+2020-11-20 16:50:36,555 User Login
+2020-11-20 16:50:42,592 Http get request initiated for organization details
+2020-11-20 16:50:45,823 donar details of the organization with 1
+2020-11-20 16:50:51,656 Http get request initiated for organization details
+2020-11-20 16:52:06,545 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:52:06,561 Hosting environment: Development
+2020-11-20 16:52:06,564 Content root path: E:\Core Projects\HelpingHands\MVC Client
+2020-11-20 16:52:14,388 User Login
+2020-11-20 16:52:18,433 Http get request initiated for organization details
+2020-11-20 16:53:33,252 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:53:33,267 Hosting environment: Development
+2020-11-20 16:53:33,269 Content root path: E:\Core Projects\HelpingHands\MVC Client
+2020-11-20 16:53:41,096 User Login
+2020-11-20 16:53:44,433 Http get request initiated for organization details
+2020-11-20 16:53:50,470 The view 'Index' was not found. Searched locations: /Views/Donar/Index.cshtml, /Views/Shared/Index.cshtml
+2020-11-20 16:53:50,609 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The view 'Index' was not found. The following locations were searched:
+/Views/Donar/Index.cshtml
+/Views/Shared/Index.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-20 16:54:00,015 http post  request initiated by donar kasu
+2020-11-20 16:54:04,517 Http get request initiated for organization details
+2020-11-20 16:55:22,894 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:55:22,906 Hosting environment: Development
+2020-11-20 16:55:22,908 Content root path: E:\Core Projects\HelpingHands\MVC Client
+2020-11-20 16:55:27,623 User Login
+2020-11-20 16:55:34,485 Http get request initiated for organization details
+2020-11-20 16:55:42,699 Http get request initiated for organization details
+2020-11-20 16:59:52,467 Application started. Press Ctrl+C to shut down.
+2020-11-20 16:59:52,514 Hosting environment: Development
+2020-11-20 16:59:52,518 Content root path: E:\Core Projects\HelpingHands\MVC Client
+2020-11-20 17:01:15,387 Application started. Press Ctrl+C to shut down.
+2020-11-20 17:01:15,405 Hosting environment: Development
+2020-11-20 17:01:15,408 Content root path: E:\Core Projects\HelpingHands\MVC Client
+2020-11-20 17:07:13,195 Application started. Press Ctrl+C to shut down.
+2020-11-20 17:07:13,242 Hosting environment: Development
+2020-11-20 17:07:13,245 Content root path: E:\Core Projects\HelpingHands\MVC Client
