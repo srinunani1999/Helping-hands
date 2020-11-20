@@ -17,6 +17,8 @@ namespace AuthenticationService.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
+
+        //comment
         static readonly log4net.ILog _log4net = log4net.LogManager.GetLogger(typeof(AuthController));
         private readonly UserDbContext _context;
         private IConfiguration _config;
