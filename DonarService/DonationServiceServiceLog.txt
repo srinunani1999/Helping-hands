@@ -1,0 +1,78 @@
+2020-11-18 15:50:55,946 Application started. Press Ctrl+C to shut down.
+2020-11-18 15:50:55,969 Hosting environment: Development
+2020-11-18 15:50:55,974 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-18 15:51:06,324 Http get request initiated
+2020-11-18 15:51:11,535 All the donars were displayed
+2020-11-18 16:04:56,954 Application started. Press Ctrl+C to shut down.
+2020-11-18 16:04:56,968 Hosting environment: Development
+2020-11-18 16:04:56,970 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-18 16:30:03,007 Application started. Press Ctrl+C to shut down.
+2020-11-18 16:30:03,021 Hosting environment: Development
+2020-11-18 16:30:03,025 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-18 16:31:58,635 Application started. Press Ctrl+C to shut down.
+2020-11-18 16:31:58,660 Hosting environment: Development
+2020-11-18 16:31:58,665 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-18 16:32:35,443 Http Ppost Request Initiated
+2020-11-18 16:32:35,443 Obtained Valid Model
+2020-11-18 16:33:39,543 Application started. Press Ctrl+C to shut down.
+2020-11-18 16:33:39,558 Hosting environment: Development
+2020-11-18 16:33:39,560 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-18 16:33:45,979 Http Ppost Request Initiated
+2020-11-18 16:33:45,980 Obtained Valid Model
+2020-11-18 16:33:58,399 Http Ppost Request Initiated
+2020-11-18 16:33:58,399 Obtained Valid Model
+2020-11-18 16:34:07,622 Http Ppost Request Initiated
+2020-11-18 16:34:07,622 Obtained Valid Model
+2020-11-18 16:35:04,168 Application started. Press Ctrl+C to shut down.
+2020-11-18 16:35:04,187 Hosting environment: Development
+2020-11-18 16:35:04,190 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-18 16:35:09,195 Http Ppost Request Initiated
+2020-11-18 16:35:09,195 Obtained Valid Model
+2020-11-18 16:35:19,789 Http get request initiated
+2020-11-18 16:35:19,826 All the donars were displayed
+2020-11-18 16:35:31,858 Http Ppost Request Initiated
+2020-11-18 16:35:31,859 Obtained Valid Model
+2020-11-18 16:35:37,947 Http get request initiated
+2020-11-18 16:35:37,952 All the donars were displayed
+2020-11-18 23:03:53,862 Application started. Press Ctrl+C to shut down.
+2020-11-18 23:03:53,903 Hosting environment: Development
+2020-11-18 23:03:53,907 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-18 23:04:08,556 Http get request initiated
+2020-11-18 23:04:16,506 All the donars were displayed
+2020-11-19 16:21:21,340 Application started. Press Ctrl+C to shut down.
+2020-11-19 16:21:21,353 Hosting environment: Development
+2020-11-19 16:21:21,354 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-19 16:21:28,098 Http get request initiated
+2020-11-19 16:21:31,769 All the donars were displayed
+2020-11-19 17:23:45,444 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:23:45,463 Hosting environment: Development
+2020-11-19 17:23:45,464 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-19 17:25:52,581 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:25:52,592 Hosting environment: Development
+2020-11-19 17:25:52,594 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-19 17:26:14,086 Http get request initiated
+2020-11-19 17:26:16,475 All the donars were displayed
+2020-11-19 17:26:18,845 Http get request initiated
+2020-11-19 17:26:18,977 Object Found
+2020-11-19 17:26:22,816 Http get request initiated
+2020-11-19 17:26:22,827 Object Found
+2020-11-19 17:34:43,259 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:34:43,267 Hosting environment: Development
+2020-11-19 17:34:43,269 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-19 17:34:48,168 Http get request initiated
+2020-11-19 17:34:50,122 All the donars were displayed
+2020-11-19 17:35:14,039 Http Ppost Request Initiated
+2020-11-19 17:35:14,039 Obtained Valid Model
+2020-11-19 17:35:20,700 Http Ppost Request Initiated
+2020-11-19 17:35:20,701 Obtained Valid Model
+2020-11-19 17:35:29,348 Http get request initiated
+2020-11-19 17:35:29,360 All the donars were displayed
+2020-11-19 18:00:51,638 Application started. Press Ctrl+C to shut down.
+2020-11-19 18:00:51,659 Hosting environment: Development
+2020-11-19 18:00:51,661 Content root path: E:\Core Projects\HelpingHands\DonarService
+2020-11-19 18:01:02,374 Http get request initiated
+2020-11-19 18:01:04,429 All the donars were displayed
+2020-11-19 18:01:14,327 Http Ppost Request Initiated
+2020-11-19 18:01:14,327 Obtained Valid Model
+2020-11-19 18:01:24,979 Http get request initiated
+2020-11-19 18:01:25,014 Object Found

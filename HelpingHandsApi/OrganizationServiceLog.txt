@@ -1,0 +1,200 @@
+2020-11-18 12:51:19,123 Application started. Press Ctrl+C to shut down.
+2020-11-18 12:51:19,132 Hosting environment: Development
+2020-11-18 12:51:19,134 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-18 12:51:19,167 Failed to determine the https port for redirect.
+2020-11-18 12:51:24,133 Http Get request Initiated
+2020-11-18 12:51:24,949 successfully got details
+2020-11-18 12:53:37,783 Application started. Press Ctrl+C to shut down.
+2020-11-18 12:53:37,794 Hosting environment: Development
+2020-11-18 12:53:37,796 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-18 12:53:37,870 Failed to determine the https port for redirect.
+2020-11-18 14:04:30,067 Application started. Press Ctrl+C to shut down.
+2020-11-18 14:04:30,076 Hosting environment: Development
+2020-11-18 14:04:30,077 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-18 14:04:30,107 Failed to determine the https port for redirect.
+2020-11-18 15:15:36,493 Application started. Press Ctrl+C to shut down.
+2020-11-18 15:15:36,522 Hosting environment: Development
+2020-11-18 15:15:36,525 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-18 15:15:36,590 Failed to determine the https port for redirect.
+2020-11-18 15:37:01,174 Application started. Press Ctrl+C to shut down.
+2020-11-18 15:37:01,190 Hosting environment: Development
+2020-11-18 15:37:01,193 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-18 15:37:01,257 Failed to determine the https port for redirect.
+2020-11-18 16:30:03,271 Application started. Press Ctrl+C to shut down.
+2020-11-18 16:30:03,338 Hosting environment: Development
+2020-11-18 16:30:03,342 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-18 16:30:03,392 Failed to determine the https port for redirect.
+2020-11-18 16:30:15,428 Http Get request Initiated
+2020-11-18 16:30:22,423 successfully got details
+2020-11-18 16:31:58,655 Application started. Press Ctrl+C to shut down.
+2020-11-18 16:31:58,692 Hosting environment: Development
+2020-11-18 16:31:58,703 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-18 16:31:58,759 Failed to determine the https port for redirect.
+2020-11-18 16:33:38,205 Application started. Press Ctrl+C to shut down.
+2020-11-18 16:33:38,218 Hosting environment: Development
+2020-11-18 16:33:38,220 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-18 16:33:38,267 Failed to determine the https port for redirect.
+2020-11-18 16:35:02,716 Application started. Press Ctrl+C to shut down.
+2020-11-18 16:35:02,751 Hosting environment: Development
+2020-11-18 16:35:02,828 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-18 16:35:02,905 Failed to determine the https port for redirect.
+2020-11-19 17:28:39,601 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:28:39,611 Hosting environment: Development
+2020-11-19 17:28:39,613 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-19 17:28:39,644 Failed to determine the https port for redirect.
+2020-11-19 17:28:48,281 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-19 17:29:18,824 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:29:18,832 Hosting environment: Development
+2020-11-19 17:29:18,834 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-19 17:29:18,862 Failed to determine the https port for redirect.
+2020-11-19 17:29:24,281 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-19 17:29:45,474 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:29:45,483 Hosting environment: Development
+2020-11-19 17:29:45,484 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-19 17:29:45,515 Failed to determine the https port for redirect.
+2020-11-19 17:29:49,917 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-19 17:30:57,570 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:30:57,585 Hosting environment: Development
+2020-11-19 17:30:57,587 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-19 17:30:57,639 Failed to determine the https port for redirect.
+2020-11-19 17:31:13,040 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-19 17:31:24,899 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-19 17:40:31,145 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:40:31,154 Hosting environment: Development
+2020-11-19 17:40:31,155 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-19 17:40:31,184 Failed to determine the https port for redirect.
+2020-11-19 17:40:35,851 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-19 17:41:35,526 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:41:35,535 Hosting environment: Development
+2020-11-19 17:41:35,537 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-19 17:41:35,568 Failed to determine the https port for redirect.
+2020-11-19 17:41:59,991 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'HelpingHandsApi.Repositories.IRepository`1[HelpingHandsApi.Models.Organization]' while attempting to activate 'HelpingHandsApi.Controllers.OrganizationsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-19 17:43:13,324 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:43:13,335 Hosting environment: Development
+2020-11-19 17:43:13,336 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-19 17:43:13,372 Failed to determine the https port for redirect.
+2020-11-19 17:43:17,802 Http Get request Initiated
+2020-11-19 17:43:19,903 successfully got details
+2020-11-19 17:57:33,105 Application started. Press Ctrl+C to shut down.
+2020-11-19 17:57:33,113 Hosting environment: Development
+2020-11-19 17:57:33,115 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-19 17:57:33,153 Failed to determine the https port for redirect.
+2020-11-19 17:57:58,584 Http Get request Initiated
+2020-11-19 17:58:07,915 successfully got details
+2020-11-19 17:58:16,637 Http get request initiated
+2020-11-19 17:58:16,783 Found Matching Organization
+2020-11-19 17:58:33,771 HttpPost Request Initiated
+2020-11-19 17:58:33,772 Model state is  valid
+2020-11-19 17:58:36,055 HttpPost Request Initiated
+2020-11-19 17:58:36,055 Model state is  valid
+2020-11-19 17:58:40,701 Http Get request Initiated
+2020-11-19 17:58:40,706 successfully got details
+2020-11-19 18:00:25,189 Application started. Press Ctrl+C to shut down.
+2020-11-19 18:00:25,200 Hosting environment: Development
+2020-11-19 18:00:25,201 Content root path: E:\Core Projects\HelpingHands\HelpingHandsApi
+2020-11-19 18:00:25,231 Failed to determine the https port for redirect.

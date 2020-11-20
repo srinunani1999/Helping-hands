@@ -1,0 +1,11 @@
+2020-11-18 21:40:30,182 Application started. Press Ctrl+C to shut down.
+2020-11-18 21:40:30,199 Hosting environment: Development
+2020-11-18 21:40:30,202 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-18 21:41:33,488 Application started. Press Ctrl+C to shut down.
+2020-11-18 21:41:33,501 Hosting environment: Development
+2020-11-18 21:41:33,504 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-18 21:42:23,484 get request initiated
+2020-11-18 22:30:17,996 Application started. Press Ctrl+C to shut down.
+2020-11-18 22:30:18,015 Hosting environment: Development
+2020-11-18 22:30:18,019 Content root path: E:\Core Projects\HelpingHands\AuthenticationService
+2020-11-18 22:30:34,742 get request initiated
